@@ -31,7 +31,7 @@ This project analyzes smoking patterns, patient demographics, and their relation
 
 ## Project Files
 - **![Smoking & Health Analysis Dashboard.pbix](Smoking%20%26%20Health%20Analysis%20Dashboard.pbix)** – Power BI project file containing the interactive dashboard and data model.
-- **![CSV Dataset](CSV%20Dataset.csv)** – Source dataset used for the analysis.
+- **![CSV Dataset](Smoking_Health_Analysis.csv)** – Source dataset used for the analysis.
 - **![Dashboard Screenshot](Smoking%20Dashboard.png)** – Static preview of the completed dashboard.
 
 ## Conclusion
